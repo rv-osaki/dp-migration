@@ -1,0 +1,11 @@
+{
+  "package": {
+    "name": "dp/migration",
+    "version": "1.0.0",
+    "source": {
+      "url": "https://github.com/rv-osaki/dp-migration.git",
+      "type": "git"
+    }
+  }
+}
+
