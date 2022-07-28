@@ -1,8 +1,18 @@
 {
     "name": "dp/migration",
-    // "description": "The Laravel Lumen Framework.",
-    // "license": "MIT",
     "type": "project",
+    "repositories": [{
+        "type": "package",
+        "package": {
+            "name": "dp/migration",
+            "version": "v1.0",
+            "source": {
+                "url": "https://github.com/rv-osaki/dp-migration.git",
+                "type": "git",
+                "reference": "main"
+            }
+        }
+    }],
     "require": {
         "php": "^8.0",
         "laravel/lumen-framework": "^9.0"
